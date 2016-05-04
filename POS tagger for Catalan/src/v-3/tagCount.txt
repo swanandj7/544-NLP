@@ -1,0 +1,17 @@
+(dp0
+S'q0'
+p1
+I10
+sS'VB'
+p2
+I10
+sS'DT'
+p3
+I10
+sS'FF'
+p4
+I25
+sS'IN'
+p5
+I5
+s.
